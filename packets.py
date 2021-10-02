@@ -35,9 +35,9 @@ print("""\033[31m
 ░██╔██╗░██║░░██║██╔══╝░░██║╚██╔╝██║██╔═══╝░░░░██║░░░██╔══╝░░██╔══██╗
 ██╔╝╚██╗██████╔╝███████╗██║░╚═╝░██║██║░░░░░░░░██║░░░███████╗██║░░██║
 ╚═╝░░╚═╝╚═════╝░╚══════╝╚═╝░░░░░╚═╝╚═╝░░░░░░░░╚═╝░░░╚══════╝╚═╝░░╚═╝""")
-print("\033[31mPackets By XDempteRX Datang")
+print("\033[31mPackets | By | XDempteRX |")
 print("\033[31mProses Packets")
-print("\033[31mPackets Siap Di Kirim Di Ip %s|%s"%(orgip,port))
+print("\033[31mPackets Siap Di Kirim Di Ip | %s|%s"%(orgip,port))
 
 
 
